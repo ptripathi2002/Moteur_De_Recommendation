@@ -1,0 +1,28 @@
+userID,username,password,categories
+A,new_user_1,1234.0,Electronics
+B,new_user_2,1234.0,Cables&Accessories
+C,,,
+D,new_user100,1234.0,Cables&Accessories|Computers&Accessories
+E,new_user_111,1234.0,Electronics
+F,new_user_999,1234.0,Electronics
+G,new_user_1000,1234.0,Electronics|Computers&Accessories
+H,sairam,1234.0,Electronics|Cables&Accessories
+I,sairam,1234.0,Electronics|Cables&Accessories
+J,bharadwaj,1234.0,Electronics|Cables&Accessories
+K,,,
+L,eklfnk,dkfk,Electronics|Cables&Accessories|Computers&Accessories
+M,eklfnk,dkfk,Electronics|Cables&Accessories|Computers&Accessories
+N,dflked,"df d,",
+O,dflked,,
+P,rfr,,
+Q,rfr,,
+R,dfkdvd,dk dv ,
+S,dfkdvd,kld,
+T,ldnvk,sd ,
+U,kddc,lmcml,
+V,,,
+W,lfn,klnfk,
+X,lfn,klnfk,
+Y,lkadanfkld,dlofl,
+Z,lkadanfkld, kjb,
+[,itsmeprashant02,asdfghjkl,
